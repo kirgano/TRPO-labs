@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "askname.h"
 int main(int argc, char **argv)
-{
+{//change 2
 char first[255], last[255];
 askname(first, last);
 Методические указания к лабораторной работе №2 24
